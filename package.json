@@ -1,0 +1,26 @@
+{
+  "name": "resume",
+  "description": "Lizette Hurtado's User Interface Developer Resume",
+  "version": "1.0.0",
+  "keywords": [
+    "css",
+    "sass"
+  ],
+  "homepage": "http://lizhurtado.com",
+  "author": "Liz Hurtado",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "style": "static/css/main.css",
+  "sass": "static/sass/main.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizhurtado/resume.git"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
