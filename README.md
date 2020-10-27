@@ -6,7 +6,4 @@ Santa Clara, CA
 
 ##
 
-* 10 years of experience as a UI Developer
-* Highly experienced with HTML5, CSS3, JavaScript
-* Currently an Application Developer at [Driscoll's, Inc.](www.driscolls.com)
-* Previously a UI Developer at [Apple, Inc.](apple.com)
+* Software Engineer at [RH](www.rh.com)
